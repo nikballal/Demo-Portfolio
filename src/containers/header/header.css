@@ -127,11 +127,13 @@
   .gpt3__header-content h1 {
     font-size: 48px;
     line-height: 60px;
+    margin-left: 1rem;
   }
 
   .gpt3__header-content p {
     font-size: 16px;
     line-height: 24px;
+    margin-left: 1rem;
   }
 
   .gpt3__header-content__people {
